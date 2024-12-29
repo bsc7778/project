@@ -1,2 +1,1 @@
-# project
-CS50x final project
+<h1>Final Project</h1>
